@@ -13,10 +13,11 @@ license = {text = "MIT"}
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
-    "winterapi @ git+https://github.com/winter-telescope/winterapi.git",
+    "winterapi",
     "jupyter",
     "matplotlib",
-    "wintertoo"
+    "wintertoo",
+    "requests"
 ]
 
 [project.urls]
