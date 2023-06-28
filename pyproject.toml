@@ -16,8 +16,8 @@ dependencies = [
     "winterapi",
     "jupyter",
     "matplotlib",
-    "wintertoo",
-    "requests"
+    "requests",
+    "wintertoo>=0.3.10",
 ]
 
 [project.urls]
