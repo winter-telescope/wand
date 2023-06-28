@@ -13,7 +13,7 @@ license = {text = "MIT"}
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
-    "winterapi",
+    "winterapi>=0.2.0",
     "jupyter",
     "matplotlib",
     "requests",
